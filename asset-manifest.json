@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FlightTicketBooking/static/css/main.6f2fb55b.css",
+    "main.js": "/FlightTicketBooking/static/js/main.15fb07e0.js",
+    "static/media/flight.jpg": "/FlightTicketBooking/static/media/flight.1e615442329aac631c7c.jpg",
+    "index.html": "/FlightTicketBooking/index.html",
+    "main.6f2fb55b.css.map": "/FlightTicketBooking/static/css/main.6f2fb55b.css.map",
+    "main.15fb07e0.js.map": "/FlightTicketBooking/static/js/main.15fb07e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2fb55b.css",
+    "static/js/main.15fb07e0.js"
+  ]
+}
